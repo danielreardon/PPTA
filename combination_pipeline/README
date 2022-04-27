@@ -1,0 +1,26 @@
+This directory contains the codes and data used for re-processing the PPTA dr2 data using a single wide-bandwidth template.
+The pipeline requires an installation of MeerGuard and PulsePortraiture, as well as psrchive and tempo2.
+
+The pipeline can be launched on the OzStar supercomputer, with one job per pulsar listed in psrnames.txt, using launch_all.sh
+
+
+# Scripts
+set_variables.sh	- Sets the paths and environment variables required for the pipeline 
+launch_all.sh		- Launches one Slurm batch job per pulsar listed in psrnames.txt
+reduce_dr2.sh		-
+time_dr2.sh		-
+add_flags.py		-
+wb_template.py		-
+
+# Auxilliary files
+psr_dms.txt 		- DM values for each pulsar that will be installed on
+psrnames.txt 		- 
+
+# Directories
+dr2_tims 		- .tim files for the dr2 dataset. From Reardon et al. (2021) for all pulsars except J0437, which is from Kerr et al. (2020)
+jobs 			- Slurm job launch scripts and outputs
+pars 			- 
+			- Also contains make_folding.sh, which was used to modify the Reardon et al. (2021) .par files by removing noise and profile evolution parameters and adding the DMs in psr_dms.txt  
+uwl_tims 		- 
+wb_models 		- spline model files made with PulsePortraiture for each pulsar (Invariant interval for J0437)
+dr3			- .par .tim and noise analyses for dr3 dataset

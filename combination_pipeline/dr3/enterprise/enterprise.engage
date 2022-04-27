@@ -1,0 +1,18 @@
+#!/bin/bash
+#SBATCH --job-name=detectGWB_hd
+#SBATCH --output=/fred/oz002/dreardon/dr2_subband/enterprise/job_output/detectGWB_hd.out
+#SBATCH --ntasks=256
+#SBATCH --time=168:00:00
+#SBATCH --mem-per-cpu=4g
+#SBATCH --tmp=2G
+srun -N16 -n16 cp -r $TEMPO2 $JOBFS/tempo2
+srun -N16 -n16 cp -r $TEMPO2_CLOCK_DIR $JOBFS/tempo2_clock_dir
+export TEMPO2=$JOBFS/tempo2
+export TEMPO2_CLOCK_DIR=$JOBFS/tempo2_clock_dir
+cd /fred/oz002/dreardon/dr2_subband/enterprise/
+
+#srun python singlePsrNoise.py J1732-5049
+#srun python limit.py
+srun python detect_gwb.py
+#srun python makeNoise.py J1732-5049
+#srun python singlePsrLimit.py J1732-5049

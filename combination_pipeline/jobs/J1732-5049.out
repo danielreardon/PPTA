@@ -1,0 +1,2720 @@
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a051220_232133.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060103_041623.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060103_210343.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060104_193243.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060201_211943.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060211_024124.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060305_194404.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060322_222053.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060407_163443.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060421_222223.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060423_182013.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060511_113913.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060511_121424.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060526_124903.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060527_185043.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060614_110333.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060614_183423.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060703_083333.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a060717_162115.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a061004_075845.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a061017_104655.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a061018_101235.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a061102_091835.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a061217_064745.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a061219_063946.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070102_022656.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070121_190337.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070206_181257.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070217_181537.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070218_014645.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070310_154947.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070410_214125.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070417_171804.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070417_201052.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070417_222434.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070417_224409.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070605_182036.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070812_052239.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070814_103056.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/a070913_115224.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r070626_112147.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r070626_114653.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r070712_154146.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r070713_164907.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r070729_150317.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r070911_120848.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071001_104907.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071013_012217.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071014_052328.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071107_074809.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071108_073536.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071204_231056.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071205_030717.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071219_205258.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071219_234226.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071219_235819.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r071231_002506.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080101_033457.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080122_031757.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080123_191728.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080210_022436.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080211_180827.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080212_165609.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080301_154227.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080302_153427.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080319_175948.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080413_130948.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080414_213317.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080525_201435.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080615_124451.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080615_164151.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/r080626_172450.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s081011_062855.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s090728_153605.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s090730_124644.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s090812_141615.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s091111_084525.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s091127_071745.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s100511_203355.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s100619_153217.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s100819_132815.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/s110121_042235.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t081013_093410.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t081015_040747.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t081024_095914.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t081025_095148.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t081114_074335.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t081115_225919.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t081214_061129.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090124_224957.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090125_040655.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090211_182608.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090221_014526.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090221_162618.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090316_002656.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090408_212406.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090409_192656.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090426_200104.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090521_173945.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090608_102528.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090609_090628.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090701_152915.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090726_133936.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090730_124647.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090811_142154.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090812_141614.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090813_133149.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090830_083044.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t090901_041114.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t091011_100719.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t091012_075140.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t091030_062916.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t091109_083009.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100222_162217.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100316_200940.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100511_110939.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100511_203354.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100529_095103.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100618_090224.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100619_153216.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100711_160705.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100819_121046.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t100819_132805.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t101024_083301.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t110108_025441.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t110120_041834.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t110121_042232.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t110612_092643.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/t110612_163844.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040319_170904.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040413_144805.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040611_121652.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040626_134429.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040725_095029.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040811_143809.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040812_141106.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040830_062013.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040830_131034.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w040925_031904.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w041025_020221.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w041026_053358.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w041204_070634.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: divide by zero encountered in log
+  log_a = np.log(a)
+/home/dreardon/software/PulsePortraitureDaniel/scipy/stats/stats.py:316: RuntimeWarning: invalid value encountered in log
+  log_a = np.log(a)
+Applying the surgical cleaner
+	 channel threshold = 5.0
+	  subint threshold = 5.0
+Loading template
+Estimating template and profile phase offset
+Removing profile from patient
+Accessing weights and applying to patient
+Masking on-pulse region as determined from template
+Calculating robust statistics to determine where RFI removal is required
+Applying RFI masking weights to archive
+Applying the bandwagon cleaner
+	 channel threshold = 0.8
+	  subint threshold = 0.8
+Unloading the cleaned archive: /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/w041205_212804.rf.pcm.dzt8f32.zap
+That is not a valid dispersion measure
+cp: cannot stat '/fred/oz002/dreardon/ppta_dr3/pipeline/wb_models//J1732-5049-fit.spl': No such file or directory
+ls: No match.
+Writing to /fred/oz002/dreardon/ppta_dr3/pptaDataCollection/profiles//J1732-5049/J1732-5049.flagged.tim
